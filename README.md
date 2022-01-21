@@ -1,2 +1,2 @@
 # tf-multiple-regions
-Using the alias argument within the provider's block to be able to use multiple regions.
+Using the alias argument within the provider's block to be able to create resources in multiple regions. Also using the profile argument to be able to create resources in multiple accounts.
