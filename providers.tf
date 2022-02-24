@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 provider "aws" {
-  alias  = "aws02"
-  region = "us-west-2"
+  alias   = "aws02"
+  region  = "us-west-2"
   profile = "account02"
 }
